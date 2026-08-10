@@ -29,6 +29,10 @@ Residential-Lighting-System-Design/
 ├── report/
 │   └── Residential_Lighting_Design_Report.pdf
 │
+├── autocad/
+│   ├── Residential_Lighting_Design.dwg
+│   
+│
 ├── images/
 │   ├── house_plan1.png
 │   ├── house_plan2.png
