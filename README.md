@@ -30,11 +30,11 @@ Residential-Lighting-System-Design/
 │   └── Residential_Lighting_Design_Report.pdf
 │
 ├── images/
-│   ├── house1_plan.png
-│   ├── house2_plan.png
-│   ├── lighting_layout.png
-│   ├── loading_table.png
-│   └── calculations.png
+│   ├── house_plan1.png
+│   ├── house_plan2.png
+│   ├── house_plan3.png
+│   └──loading_table.png
+│   
 │
 └── LICENSE
 ```
@@ -53,23 +53,6 @@ Residential-Lighting-System-Design/
 - Microsoft Excel
 - Microsoft Word
 
-## Project Preview
-
-### House 1
-
-![House 1](images/house1_plan.png)
-
-### House 2
-
-![House 2](images/house2_plan.png)
-
-### Lighting Layout
-
-![Lighting Layout](images/lighting_layout.png)
-
-### Electrical Loading Table
-
-![Loading Table](images/loading_table.png)
 
 ## Project Report
 
